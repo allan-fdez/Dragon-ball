@@ -2,5 +2,16 @@
 #EXTINF:0 El secreto de la esfera del dragón
 https://cougar.jawcloud.co/hls/baxpntgzmftrdl2gmju6ognvl6pfi7s7zzi7rro5jhtx3o5rd3df2abfjdha/index-v1-a1.m3u8
 
-#EXTINF:0 EL CHAVO
-https://tiger.jawcloud.co/hls/baxpd2gzmftrdl2gmju6oqhydn4tkzyrzayxfydwvh564aiphfuxpbh6jdyq/index-v1-a1.m3u8
+#EXTINF:0 T1:E2 960p
+https://cougar.jawcloud.co/hls/baxpvxozmftrdl2gmju6otn5dhwvru3z5wb2fcprxyp2edbat5my2a7fvrsq/index-v1-a1.m3u8
+
+#EXTINF:0 T1:E2 480p
+https://cheetah.jawcloud.co/hls/baxpdwgzmftrdl2gmju6oxpwl6metrtwr2naufmbw3yhqk7l6gw5auo7towa/index-v1-a1.m3u8
+
+#EXTINF:0 T1:E3
+https://cheetah.jawcloud.co/hls/baxpougymftrdl2gmju6ovvkjk6bhtsrcblt7xye57ss7tizlaifkioz3wva/index-v1-a1.m3u8
+
+#EXTINF:0 T1:E
+
+
+#EXTINF:0 T1:E
